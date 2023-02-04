@@ -1,4 +1,7 @@
-This script uses the SentimentIntensityAnalyzer from the nltk library to analyze sentiment. The sentiment of a given text is calculated using the polarity_scores method, which returns a dictionary of scores for positive, negative, and neutral sentiment. In the analyze_sentiment function, we use these scores to classify the text as positive, negative, or neutral. Finally, the sentiment of an example text is analyzed and printed to the console.
+#This script uses the SentimentIntensityAnalyzer from the nltk library to analyze sentiment. 
+#The sentiment of a given text is calculated using the polarity_scores method, which returns a dictionary of scores for positive, negative, and neutral sentiment. 
+#In the analyze_sentiment function, we use these scores to classify the text as positive, negative, or neutral. 
+#Finally, the sentiment of an example text is analyzed and printed to the console.
 
 # Import necessary libraries
 import nltk
